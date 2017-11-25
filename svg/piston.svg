@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="piston.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="12.270246"
+     inkscape:cy="12.508828"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1545"
+     inkscape:window-height="1033"
+     inkscape:window-x="1998"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     guidetolerance="20"
+     gridtolerance="10000">
+    <sodipodi:guide
+       position="0,13.125"
+       orientation="1,0"
+       id="guide4142"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="24,13.6875"
+       orientation="1,0"
+       id="guide4144"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="23.34375,24"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="22.75,0"
+       orientation="0,1"
+       id="guide4148"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="12,14.1875"
+       orientation="1,0"
+       id="guide4152"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,0)" />
+    <sodipodi:guide
+       position="14.906,12"
+       orientation="0,1"
+       id="guide4154"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,0)" />
+    <sodipodi:guide
+       position="-1.9375,14"
+       orientation="0,1"
+       id="guide4156"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-3.09375,10"
+       orientation="0,1"
+       id="guide4158"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="10,18.09375"
+       orientation="1,0"
+       id="guide4160"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="14,19.59375"
+       orientation="1,0"
+       id="guide4162" />
+    <sodipodi:guide
+       position="19.40625,18"
+       orientation="0,1"
+       id="guide6385"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="20,17"
+       orientation="1,0"
+       id="guide6387"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="4,16.53125"
+       orientation="1,0"
+       id="guide6389"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="6,21.3125"
+       orientation="1,0"
+       id="guide6391"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="18,18.8125"
+       orientation="1,0"
+       id="guide6393"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid6448"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vincenzo De Vivo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>http://www.vincenzodevivo.com</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6,0 0,2.03125 12,0 L 18,0 Z m 0,3.03125 0,1 12,0 0,-1 z m 0,2 L 6,10 l 4,0 0,6.541016 C 8.7639777,17.254632 8.0018267,18.572766 8,20 c 0,2.209139 1.790861,4 4,4 2.209139,0 4,-1.790861 4,-4 -0.0018,-1.427234 -0.763978,-2.745368 -2,-3.458984 L 14,10 18,10 18,5.03125 Z M 12,18 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z"
+       transform="translate(0,1028.3622)"
+       id="rect6466"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccsccccccsssss" />
+  </g>
+</svg>
