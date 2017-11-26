@@ -1,11 +1,13 @@
 ![meccanico](doc/meccanico.png)
 
-Mechanical vector icons in a web-font
+26 mechanical vector icons in a web-font
 
 ![car-battery](svg/car-battery.svg)
 ![car](svg/car.svg)
 ![circle](svg/circle.svg)
 ![equals](svg/equals.svg)
+![gear-b](svg/gear-b.svg)
+![gear](svg/gear.svg)
 ![list](svg/list.svg)
 ![minus](svg/minus.svg)
 ![piston](svg/piston.svg)
@@ -13,6 +15,7 @@ Mechanical vector icons in a web-font
 ![robotic-arm](svg/robotic-arm.svg)
 ![square](svg/square.svg)
 ![star10](svg/star10.svg)
+![star16](svg/star16.svg)
 ![star3](svg/star3.svg)
 ![star4](svg/star4.svg)
 ![star5](svg/star5.svg)
