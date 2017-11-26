@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
     <img src="doc/meccanico.png" alt="meccanico"></img>
 </p>
 
