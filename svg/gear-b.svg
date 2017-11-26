@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gear-b.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="9.0963822"
+     inkscape:cy="10.626847"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2482"
+     inkscape:window-height="1051"
+     inkscape:window-x="1989"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     guidetolerance="20"
+     gridtolerance="10">
+    <sodipodi:guide
+       position="0,13.125"
+       orientation="1,0"
+       id="guide4142"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="24,13.6875"
+       orientation="1,0"
+       id="guide4144"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="23.34375,24"
+       orientation="0,1"
+       id="guide4146"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="22.75,0"
+       orientation="0,1"
+       id="guide4148"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="12,14.1875"
+       orientation="1,0"
+       id="guide4152"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,0)" />
+    <sodipodi:guide
+       position="14.906,12"
+       orientation="0,1"
+       id="guide4154"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,0)" />
+    <sodipodi:guide
+       position="-1.9375,14"
+       orientation="0,1"
+       id="guide4156"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-3.09375,10"
+       orientation="0,1"
+       id="guide4158"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="10,18.09375"
+       orientation="1,0"
+       id="guide4160"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="14,19.59375"
+       orientation="1,0"
+       id="guide4162" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vincenzo De Vivo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>http://www.vincenzodevivo.com</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.099609 0 L 8.9960938 2.7558594 L 6.484375 1.1738281 L 6.2871094 4.1367188 L 3.4082031 3.4082031 L 4.1367188 6.2871094 L 1.1738281 6.484375 L 2.7558594 8.9960938 L 0 10.099609 L 2.28125 12 L 0 13.900391 L 2.7558594 15.003906 L 1.1738281 17.515625 L 4.1367188 17.712891 L 3.4082031 20.591797 L 6.2871094 19.863281 L 6.484375 22.826172 L 8.9960938 21.244141 L 10.099609 24 L 12 21.71875 L 13.900391 24 L 15.003906 21.244141 L 17.515625 22.826172 L 17.712891 19.863281 L 20.591797 20.591797 L 19.863281 17.712891 L 22.826172 17.515625 L 21.244141 15.003906 L 24 13.900391 L 21.71875 12 L 24 10.099609 L 21.244141 8.9960938 L 22.826172 6.484375 L 19.863281 6.2871094 L 20.591797 3.4082031 L 17.712891 4.1367188 L 17.515625 1.1738281 L 15.003906 2.7558594 L 13.900391 0 L 12 2.28125 L 10.099609 0 z M 12 9 A 3 3 0 0 1 15 12 A 3 3 0 0 1 12 15 A 3 3 0 0 1 9 12 A 3 3 0 0 1 12 9 z "
+       transform="translate(0,1028.3622)"
+       id="path7719" />
+  </g>
+</svg>
