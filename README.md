@@ -1,7 +1,8 @@
 ![meccanico](doc/meccanico.png)
 
-26 mechanical vector icons in a web-font
+27 mechanical vector icons in a web-font
 
+![briefcase](svg/briefcase.svg)
 ![car-battery](svg/car-battery.svg)
 ![car](svg/car.svg)
 ![circle](svg/circle.svg)
